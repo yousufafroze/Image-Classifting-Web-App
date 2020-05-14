@@ -1,25 +1,10 @@
 # Image-Classifting-Web-App
-Classifies images using Flask Framework with TensorFlow
-
-Implement Pre-process Functions
- - Normlize, One hot encoding
- - Data split in train/dev/test sets
-
-Build the network
- - CNN model and its cost function & optimizer
-
-Train the Neural Network
- - Hyper parameters
- - Train the model
-
- Test Model(prediction)
- 
  
  **Idea**: 
 - Classifies images using Flask Framework with TensorFlow
 
 **How**:
-- Classifies images with 68% accuracy from the CIFAR-10 dataset using a CNN built in TensorFlow
+- Classifies images with 68% accuracy from the CIFAR-10 dataset (some animals, objects etc) using a CNN built in TensorFlow
 - Deployed the model through a web application using Flask for Python
 
 **Summary**:
