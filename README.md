@@ -1,4 +1,4 @@
-# Image-Classifting-Web-App
+# Image-Classifying-Web-App
  
  **Idea**: 
 - Classifies images using Flask Framework with TensorFlow
